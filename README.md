@@ -1,6 +1,6 @@
 # _Mad Libs_
 
-#### Mad Libs style form that appends story, Jan 10, 2016_
+#### Mad Libs style form that appends story, Jan 10, 2016
 
 #### By _**Schuyler & Cassy**_
 
